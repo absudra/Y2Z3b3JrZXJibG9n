@@ -7,7 +7,7 @@
  */
 
 // 定义 Github 项目，文章会从这里读取
-const github_base = "kasuganosoras/cloudflare-worker-blog";
+const github_base = "absudra/Y2Z3b3JrZXJibG9n";
 
 // 站点名称
 const site_name = "CloudFlare Workers Blog";
@@ -21,7 +21,7 @@ const highlight_main = "https://cn.tql.ink:4443/js/highlight.min.js";
 const highlight_pack = "https://cn.tql.ink:4443/js/highlight.pack.js";
 
 // Copyright
-const copyright = `&copy; 2019 ${site_name} | <a href="https://github.com/kasuganosoras/cloudflare-worker-blog" target="_blank">Github</a>`;
+const copyright = `&copy; 2019 ${site_name} | <a href="https://github.com/absudra/Y2Z3b3JrZXJibG9n" target="_blank">Github</a>`;
 
 /* 配置到此结束 */
 
