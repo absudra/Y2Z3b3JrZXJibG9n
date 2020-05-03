@@ -1,4 +1,6 @@
 # Cloudflare workers blog
+没什么用,直接github pages + workers不就行了没?这还有请求次数限制...
+而且这个也用了github pages了,而且是public的.
 
 Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器
 
